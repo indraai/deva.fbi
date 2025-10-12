@@ -3,7 +3,7 @@
 // Distributed under VLA:41853176043929172482 LICENSE.md
 
 ::BEGIN:MAIN
-# {{agent.name}}
+# {{profile.name}}
 
 {{profile}}
 

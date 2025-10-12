@@ -1,7 +1,7 @@
 "use strict";
 // Copyright ©2025 Quinn A Michaels; All rights reserved. 
 // Legal Signature Required For Lawful Use.
-// Distributed under VLA:41853176043929172482 LICENSE.md
+// Distributed under VLA:15289402781373807475 LICENSE.md
 
 const {expect} = require('chai')
 const FBIDeva = require('./index.js');

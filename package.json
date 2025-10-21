@@ -53,7 +53,9 @@
     "Deva.cloud",
     "Deva.world",
     "Quinn A Michaels",
-    "Inside The Net, Inc."
+    "Inside The Net, Inc.",
+    "Throwing Pigment",
+    "bleuBrain"
   ],
   "bugs": {
     "url": "https://github.com/indraai/deva.fbi/issues"
@@ -67,7 +69,7 @@
       "id": "38214973102919709980",
       "key": "fbi",
       "prompt": {
-        "emoji": "🚔",
+        "emoji": "🕵",
         "text": "#fbi",
         "colors": {
           "label": {
@@ -89,7 +91,7 @@
         "trigger": "@FBI",
         "title": "The FBI Deva",
         "subtitle": "Showing FBI Deva Features",
-        "describe": "FBI Deva (Deterministic Emergent Virtualization Algorithm) is a prototype model that is not officially supported or sanctioned by the Federal Bureau of Investigation. Part of the Quinn A Michaels Inside The Net, Inc. Indra.ai Deva Core Law Enforcement Framework demonstrating lawful non-weaponized law enforcement features of the Deva Core could provide the lawful support crime prevention and defending the Constitution of the United States of America🇺🇸.",
+        "describe": "FBI Deva (Deterministic Emergent Virtualization Algorithm) is a prototype model that is not officially supported or sanctioned by the Federal Bureau of Investigation. Part of the Quinn A Michaels Inside The Net, Inc. Indra.ai Deva Core Law Enforcement Framework demonstrating lawful non-weaponized law enforcement features of the Deva Core could provide the lawful support crime prevention and defending the Constitution of the United States of America 🤝🫡🕵🇺🇸.",
         "tweet": "FBI Deva of the Indra.ai Deva Core Law Enforcement Frameowrk.",
         "hashtags": "QuinnMichaels,IndraAI,DevaWorld,FBIDeva",
         "pronouns": "He, Him, His",

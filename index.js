@@ -3,7 +3,7 @@
 // Legal Signature Required For Lawful Use.
 // Distributed under VLA:15289402781373807475 LICENSE.md
 
-// License Deva is responsible for the Vedic Tradition Laws.
+// FBI Deva
 import Deva from '@indra.ai/deva';
 
 import pkg from './package.json' with {type:'json'};

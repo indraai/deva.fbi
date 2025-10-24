@@ -62,7 +62,7 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.16.2"
+    "@indra.ai/deva": "^1.17.0"
   },
   "data": {
     "agent": {
@@ -108,8 +108,9 @@
         "background": "/devas/fbi/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
-        "uid_warning": "This is a Custom Unofficial FBI UID Warning for the FBI Deva Prototype.",
-        "copyright": "Copyright ©2025 Quinn A Michaels, U.S. Federal Bureau of Investigation (FBI); All rights reserved.",
+        "status": "unofficial",
+        "uid_warning": "Those who give food or shelter to thieves seeking refuge with them, or who suffer them to escape though able to arrest them, partake of their crime themselves.",
+        "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
         "created": "Monday, Septemper 8, 2025 - 1:25:01 PM"
       }
     },

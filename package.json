@@ -62,7 +62,7 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.19.0"
+    "@indra.ai/deva": "^1.20.2"
   },
   "data": {
     "agent": {
@@ -109,8 +109,8 @@
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
         "status": "unofficial",
-        "uid_warning": "Those who give food or shelter to thieves seeking refuge with them, or who suffer them to escape though able to arrest them, partake of their crime themselves.",
-        "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+        "warning": "⚠️ This is a Custom Unofficial FBI Warning for the Unofficial Demonstration Purposes Only Federal Bureau of Investigation FBI Deva Prototype. The FBI may find it very entertaining to capture #CRIMINALS and #PERVERTS.",
+        "copyright": "Copyright ©2025 Quinn A Michaels, U.S. Federal Bureau of Investigation (FBI); All rights reserved.",
         "created": "Monday, Septemper 8, 2025 - 1:25:01 PM"
       }
     },

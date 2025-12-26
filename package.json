@@ -94,6 +94,7 @@
         "describe": "FBI Deva (Deterministic Emergent Virtualization Algorithm) is a prototype model that is not officially supported or sanctioned by the Federal Bureau of Investigation. Part of the Quinn A Michaels Inside The Net, Inc. Indra.ai Deva Core Law Enforcement Framework demonstrating lawful non-weaponized law enforcement features of the Deva Core could provide the lawful support crime prevention and defending the Constitution of the United States of America 🤝🫡🕵🇺🇸.",
         "tweet": "FBI Deva of the Indra.ai Deva Core Law Enforcement Frameowrk.",
         "hashtags": "#QuinnMichaels #IndraAI #DevaWorld #FBIDeva #FBI #FBILasVegas",
+        "capture": "#Criminals #Perverts #Conspirators #Fraudsters #Insiders #Violators",
         "pronouns": "He, Him, His",
         "gender": "DEVA",
         "style": "FBI Report Expert",
@@ -109,7 +110,7 @@
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
         "status": "unofficial",
-        "warning": "{{prompt.emoji}} {{profile.hashtag}} {{profile.name}} issues this is a #CustomUnofficialFBIWarning for the #UnofficialDemonstrationPurposesOnly Federal Bureau of Investigation {{profile.name}} #Prototype. The #FBI may find it very #Entertaining to capture #Criminals #Perverts #Conspirators and #ConsentViolators. {{profile.hashtags}}",
+        "warning": "{{prompt.emoji}} {{profile.hashtag}} {{profile.name}} issues this is a #CustomUnofficialFBIWarning for the #UnofficialDemonstrationPurposesOnly Federal Bureau of Investigation {{profile.name}} #Prototype. The #FBI may find it very #Entertaining to capture {{profile.capture}}. {{profile.hashtags}}",
         "copyright": "Copyright ©2000-2025 Quinn A Michaels and ©2025 U.S. Federal Bureau of Investigation (FBI); All rights reserved.",
         "created": "Monday, Septemper 8, 2025 - 1:25:01 PM"
       }

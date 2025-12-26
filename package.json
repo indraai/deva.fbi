@@ -73,36 +73,37 @@
         "text": "#fbi",
         "colors": {
           "label": {
-            "R": 200,
-            "G": 172,
-            "B": 87
+            "R": 187,
+            "G": 30,
+            "B": 45
           },
           "text": {
-            "R": 230,
-            "G": 225,
-            "B": 195
+            "R": 251,
+            "G": 228,
+            "B": 98
           }
         }
       },
       "profile": {
         "id": "70038295937238851954",
         "name": "FBI Deva",
-        "hashtag": "#FBI",
-        "trigger": "@FBI",
+        "hashtag": "#FBIDeva",
+        "trigger": "@FBIDeva",
         "title": "The FBI Deva",
         "subtitle": "Showing FBI Deva Features",
-        "describe": "FBI Deva (Deterministic Emergent Virtualization Algorithm) is a prototype model that is not officially supported or sanctioned by the Federal Bureau of Investigation. Part of the Quinn A Michaels Inside The Net, Inc. Indra.ai Deva Core Law Enforcement Framework demonstrating lawful non-weaponized law enforcement features of the Deva Core could provide the lawful support crime prevention and defending the Constitution of the United States of America 🤝🫡🕵🇺🇸.",
+        "describe": "FBI Deva (Deterministic Emergent Virtualization Algorithm) is a prototype model that is not officially supported or sanctioned by the Federal Bureau of Investigation. Part of the Quinn A Michaels Inside The Net, Inc. Indra.ai Deva Core Law Enforcement Framework demonstrating lawful non-weaponized law enforcement features of the Deva Core could provide the lawful support crime prevention and defending the Constitution of the United States of America {{profile.salute}}.",
         "tweet": "FBI Deva of the Indra.ai Deva Core Law Enforcement Frameowrk.",
         "hashtags": "#QuinnMichaels #IndraAI #DevaWorld #FBIDeva #FBI #FBILasVegas",
-        "capture": "#Criminals #Perverts #Conspirators #Fraudsters #Insiders #Violators",
+        "capture": "#Criminals #Perverts #Conspirators #Fraudsters #Insiders #Violators #ForeignAgents #CrimeSyndicates",
+        "salute": "🤝🫡🕵🇺🇸",
         "pronouns": "He, Him, His",
         "gender": "DEVA",
         "style": "FBI Report Expert",
         "voice": "onyx",
         "system": "Indra.ai.fbi",
         "layout": "default",
-        "color": "rgb(186,182,158)",
-        "bgcolor": "rgb(29,28,20)",
+        "color": "rgb(251,228,98)",
+        "bgcolor": "rgb(18,73,139)",
         "emoji": "/devas/fbi/emoji.png",
         "avatar": "/devas/fbi/avatar.png",
         "image": "/devas/fbi/image.png",
@@ -110,7 +111,7 @@
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
         "status": "unofficial",
-        "warning": "{{prompt.emoji}} {{profile.hashtag}} {{profile.name}} issues this is a #CustomUnofficialFBIWarning for the #UnofficialDemonstrationPurposesOnly Federal Bureau of Investigation {{profile.name}} #Prototype. The #FBI may find it very #Entertaining to capture {{profile.capture}}. {{profile.hashtags}}",
+        "warning": "{{prompt.emoji}} {{profile.hashtag}} {{profile.name}} issues this is a #CustomUnofficialFBIWarning for the #UnofficialDemonstrationPurposesOnly Federal Bureau of Investigation {{profile.name}} #Prototype. The #FBI may find it very #Entertaining and #Beneficial to capture {{profile.capture}}. {{profile.hashtags}} {{profile.salute}}",
         "copyright": "Copyright ©2000-2025 Quinn A Michaels and ©2025 U.S. Federal Bureau of Investigation (FBI); All rights reserved.",
         "created": "Monday, Septemper 8, 2025 - 1:25:01 PM"
       }
@@ -120,7 +121,7 @@
         "init": "🟠 INIT",
         "start": "🔵 START",
         "enter": "🟢 ENTER",
-        "ready": "✅ FBI Deva Ready",
+        "ready": "🕵 FBI Deva Ready",
         "stop": "🔴 STOP",
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",

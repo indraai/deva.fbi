@@ -29,7 +29,7 @@ const info = {
   copyright: pkg.copyright,
 };
 
-const FBI = new Deva({
+const FBIDeva = new Deva({
   info,
   agent,
   vars,
@@ -61,4 +61,4 @@ const FBI = new Deva({
     console.log(err);
   },
 });
-export default FBI
+export default FBIDeva

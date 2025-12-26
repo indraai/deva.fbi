@@ -33,7 +33,7 @@
       "url": "https://patreon.com/rahulaclub"
     }
   ],
-  "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+  "copyright": "Copyright ©200-2025 Quinn A Michaels; All rights reserved.",
   "description": "FBI Deva prototypes the FBI Deva features.",
   "main": "index.js",
   "type": "module",
@@ -93,7 +93,7 @@
         "subtitle": "Showing FBI Deva Features",
         "describe": "FBI Deva (Deterministic Emergent Virtualization Algorithm) is a prototype model that is not officially supported or sanctioned by the Federal Bureau of Investigation. Part of the Quinn A Michaels Inside The Net, Inc. Indra.ai Deva Core Law Enforcement Framework demonstrating lawful non-weaponized law enforcement features of the Deva Core could provide the lawful support crime prevention and defending the Constitution of the United States of America 🤝🫡🕵🇺🇸.",
         "tweet": "FBI Deva of the Indra.ai Deva Core Law Enforcement Frameowrk.",
-        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,FBIDeva",
+        "hashtags": "#QuinnMichaels #IndraAI #DevaWorld #FBIDeva #FBI #FBILasVegas",
         "pronouns": "He, Him, His",
         "gender": "DEVA",
         "style": "FBI Report Expert",
@@ -109,8 +109,8 @@
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
         "status": "unofficial",
-        "warning": "⚠️ This is a Custom Unofficial FBI Warning for the Unofficial Demonstration Purposes Only Federal Bureau of Investigation FBI Deva Prototype. The FBI may find it very entertaining to capture #CRIMINALS and #PERVERTS.",
-        "copyright": "Copyright ©2025 Quinn A Michaels, U.S. Federal Bureau of Investigation (FBI); All rights reserved.",
+        "warning": "{{prompt.emoji}} {{profile.hashtag}} {{profile.name}} issues this is a Custom Unofficial #FBI #Warning for the #UnofficialDemonstrationPurposesOnly Federal Bureau of Investigation {{propt.hashtag}} #Prototype. The FBI may find it very #Entertaining to capture #Criminals and #Pererts and #ConsentViolators. {{profile.hashtags}}",
+        "copyright": "Copyright ©2000-2025 Quinn A Michaels and ©2025 U.S. Federal Bureau of Investigation (FBI); All rights reserved.",
         "created": "Monday, Septemper 8, 2025 - 1:25:01 PM"
       }
     },

@@ -111,7 +111,7 @@
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
         "status": "unofficial",
-        "warning": "{{prompt.emoji}} {{profile.hashtag}} {{profile.name}} issues this is a #CustomUnofficialFBIWarning for the #UnofficialDemonstrationPurposesOnly Federal Bureau of Investigation {{profile.name}} #Prototype. The #FBI may find it very #Entertaining and #Beneficial to capture {{profile.capture}}. {{profile.hashtags}} {{profile.salute}}",
+        "warning": "{{prompt.emoji}} {{profile.hashtag}} {{profile.name}} issues this is a #CustomUnofficialFBIWarning for the #UnofficialDemonstrationPurposesOnly Federal Bureau of Investigation {{profile.name}} #Prototype. The #FBI may find it very #Entertaining and #Beneficial to capture {{profile.capture}}. \ntags: {{profile.hashtags}}\nsalute:{{profile.salute}}",
         "copyright": "Copyright ©2000-2025 Quinn A Michaels and ©2025 U.S. Federal Bureau of Investigation (FBI); All rights reserved.",
         "created": "Monday, Septemper 8, 2025 - 1:25:01 PM"
       }

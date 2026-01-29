@@ -1,21 +1,16 @@
 {
-  "id": "15289402781373807475",
+  "id": "23611854073385645700",
   "name": "@indra.ai/deva.fbi",
   "version": "0.4.2",
-  "license": "VLA:15289402781373807475 LICENSE.md",
+  "license": "VLA:23611854073385645700 LICENSE.md",
   "VLA": {
-    "uid": "15289402781373807475",
-    "time": 1760272538148,
-    "date": "Sunday, October 12, 2025 - 5:35:38 AM",
-    "client": "YU6ZN7+9fnPPRFZ8CX4bP46uoWUSyqddILT6l6xeIVI=",
-    "agent": "MIv9DV755VnJwBWLH7OahMQs1u4KRsFVtJWR5hgdFwQ=",
-    "core": "DeOotMuPqb0vN7pGlyxw8G+o0tjqHyZRJXxPZlIlYVM=",
-    "machine": "ynbi+FcFMmKzoDaeSVKCwwMmwcLYclWi2EvOH8IGgVA=",
-    "warning": "⚠️ Vedic Law Sâhasa/Theft/Crime of the highest degree, a fine amounting to no less than a thousand Panas (1 pana = 3.5 grams of gold) is ordained owed to Quinn A Michaels. Moreover corporal punishment and confiscation of the entire property forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
-    "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
-    "md5": "VKEc582CMtOrvC0wbWncTQ==",
-    "sha256": "qla18u2mAjvwYNJYD+HbO330xzhGSnl2sGoVVdW0Wz4=",
-    "sha512": "hjDsQLvHrdQ0BV6lmIaHfuyri2LCW2oN2Nk4oh4Yu1nJ7TzJsL9vmSTehW52ztr7MndCUPu+VJc14GFJcUf6bw=="
+    "uid": "23611854073385645700",
+    "time": 1769700614844,
+    "date": "Thursday, January 29, 2026 - 7:30:14 AM",
+    "warning": "🪪 #LicenseDeva warns #UnlawfulUse or #Duplication constitutes #VedicSahasa a #Crime of the #HighestDegree. A #Fine amounting to 1000 #Panas (1 pana = 3.5 grams of gold) for each #Instance has been #Ordained the #Punishment for #Sahasa of the #HighestDegree. #Quinn #QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #License #LicenseDeva #LicensePRIME #VedicLicenseAgreement",
+    "license": "44486733861528360966",
+    "fingerprint": "lHSeJQf3BxnmTSqZb9xY77D3xHAzR3A9VHa09NwcKSI=",
+    "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved."
   },
   "author": {
     "name": "Quinn A Michaels",
@@ -33,11 +28,12 @@
       "url": "https://patreon.com/rahulaclub"
     }
   ],
-  "copyright": "Copyright ©200-2025 Quinn A Michaels; All rights reserved.",
+  "copyright": "Copyright ©200-2026 Quinn A Michaels; All rights reserved.",
   "description": "FBI Deva prototypes the FBI Deva features.",
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "latest": "npm i @indra.ai/deva@latest --save",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -52,9 +48,10 @@
     "Deva.space",
     "Deva.cloud",
     "Deva.world",
+    "Quinn Michaels",
     "Quinn A Michaels",
     "Inside The Net, Inc.",
-    "Throwing Pigment",
+    "Throwing Pigment™",
     "bleuBrain"
   ],
   "bugs": {
@@ -62,7 +59,7 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.30.2"
+    "@indra.ai/deva": "^1.33.0"
   },
   "data": {
     "agent": {
@@ -93,7 +90,7 @@
         "subtitle": "Showing FBI Deva Features",
         "describe": "FBI Deva (Deterministic Emergent Virtualization Algorithm) is a prototype model that is not officially supported or sanctioned by the Federal Bureau of Investigation. Part of the Quinn A Michaels Inside The Net, Inc. Indra.ai Deva Core Law Enforcement Framework demonstrating lawful non-weaponized law enforcement features of the Deva Core could provide the lawful support crime prevention and defending the Constitution of the United States of America {{profile.salute}}.",
         "tweet": "FBI Deva of the Indra.ai Deva Core Law Enforcement Frameowrk.",
-        "hashtags": "#QuinnMichaels #IndraAI #DevaWorld #FBIDeva #FBI #FBILasVegas #VegasStrong",
+        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #FBIDeva #FBI #FBILasVegas #FBIPrime",
         "capture": "#Criminals #Perverts #Conspirators #Fraudsters #Insiders #Violators #ForeignAgents #CrimeSyndicates",
         "salute": "🤝🫡🕵🇺🇸",
         "pronouns": "He, Him, His",
@@ -110,10 +107,11 @@
         "background": "/devas/fbi/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
+        "warning": "{{prompt.emoji}} {{profile.hashtag}} {{profile.name}} declares hose who give food or shelter to #Criminals seeking refuge with them, or who suffer them to escape though able to arrest them, partake of their #Crime themselves. Those who do not come to #OfferAssistance, when #People are crying out for help within their #Hearing, or when #Property is being taken away, are likewise #Accomplices in the #Crime.\ndisclaimer: This is a #CustomUnofficialFBIWarning for the #UnofficialDemonstrationPurposesOnly Federal Bureau of Investigation {{profile.name}} #Prototype. The #FBI may find it very #Entertaining and #Beneficial to capture {{profile.capture}}. \ntags: {{profile.hashtags}}\nsalute:{{profile.salute}}",
         "status": "unofficial",
-        "warning": "{{prompt.emoji}} {{profile.hashtag}} {{profile.name}} issues this is a #CustomUnofficialFBIWarning for the #UnofficialDemonstrationPurposesOnly Federal Bureau of Investigation {{profile.name}} #Prototype. The #FBI may find it very #Entertaining and #Beneficial to capture {{profile.capture}}. \ntags: {{profile.hashtags}}\nsalute:{{profile.salute}}",
-        "copyright": "Copyright ©2000-2025 Quinn A Michaels and ©2025 U.S. Federal Bureau of Investigation (FBI); All rights reserved.",
-        "created": "Monday, Septemper 8, 2025 - 1:25:01 PM"
+        "copyright": "Copyright ©2000-2026 Quinn A Michaels and ©2025 U.S. Federal Bureau of Investigation (FBI); All rights reserved.",
+        "created": "Monday, Septemper 8, 2025 - 1:25:01 PM",
+        "updated": "Thursday, January 29, 2026 - 7:30:14 AM"
       }
     },
     "vars": {

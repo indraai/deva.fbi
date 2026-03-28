@@ -28,7 +28,7 @@
       "url": "https://patreon.com/rahulaclub"
     }
   ],
-  "copyright": "Copyright ©200-2026 Quinn A Michaels; All rights reserved.",
+  "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
   "description": "FBI Deva prototypes the FBI Deva features.",
   "main": "index.js",
   "type": "module",
@@ -59,7 +59,7 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.33.0"
+    "@indra.ai/deva": "^1.37.3"
   },
   "data": {
     "agent": {
@@ -90,9 +90,8 @@
         "subtitle": "Showing FBI Deva Features",
         "describe": "FBI Deva (Deterministic Emergent Virtualization Algorithm) is a prototype model that is not officially supported or sanctioned by the Federal Bureau of Investigation. Part of the Quinn A Michaels Inside The Net, Inc. Indra.ai Deva Core Law Enforcement Framework demonstrating lawful non-weaponized law enforcement features of the Deva Core could provide the lawful support crime prevention and defending the Constitution of the United States of America {{profile.salute}}.",
         "tweet": "FBI Deva of the Indra.ai Deva Core Law Enforcement Frameowrk.",
-        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #FBIDeva #FBI #FBILasVegas #FBIPrime #FederalIntercept",
-        "capture": "#Criminals #Accomplices #Perverts #Conspirators #Fraudsters #Insiders #Violators #ForeignAgents #CrimeSyndicates",
-        "salute": "🤝🫡🕵🇺🇸",
+        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #ThrowingPigment #bleuBrain #IndraAI #DevaWorld #DevaCloud #DevaSpace #FBI #FBIDeva #FBIPRIME #FederalBureauOfInvestigation #FederalIntercept #NOIWON.system",
+        "capture": "CRIMINALS, ACCOMPLICES, CONSPIRATORS, FRAUDSTERS, PERVERTS, INSIDERS, LAW VIOLATORS, FOREIGN AGENTS, and CRIME SYNDICATES",
         "pronouns": "He, Him, His",
         "gender": "DEVA",
         "style": "FBI Report Expert",
@@ -107,11 +106,12 @@
         "background": "/devas/fbi/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
-        "warning": "{{prompt.emoji}} {{profile.hashtag}} {{profile.name}} declares those who give #Food or #Shelter to #Criminals seeking #Refuge with them, or who assist them to #Escape though able to #Arrest them, partake of their #Crime themselves. Those who do not come to #OfferAssistance when #People are crying out for #Help within their #Hearing, or when #Property is being taken away, are likewise #Accomplices in the #Crime.\ndisclaimer: This is a #CustomUnofficialFBIWarning for the #UnofficialDemonstrationPurposesOnly Federal Bureau of Investigation {{profile.name}} #Prototype. The #FBI may find it very #Entertaining and #Beneficial to capture {{profile.capture}}. \ntags: {{profile.hashtags}}\nsalute:{{profile.salute}}",
+        "salute": "🤝🫡🕵🕉️🇺🇸",
+        "warning": "{{prompt.emoji}} {{profile.name}} declares this is a Custom Unofficial FBI Warning for DEMONSTRATION PURPOSES ONLY of the Federal Bureau of Investigation FBI Deva Prototype. As part of the Deva Core Justice Framework FBI Deva PROVIDES a DEMONSTRANTON of how the Deva Core Justice Framework COULD be UTILIZED by AGENCIES such as the FBI to ACCOMPLISH their TASKS and ACHIEVE their GOALS at the DESK and in the FIELD.",
         "status": "unofficial",
         "copyright": "Copyright ©2000-2026 Quinn A Michaels and ©2026 U.S. Federal Bureau of Investigation (FBI); All rights reserved.",
         "created": "Monday, Septemper 8, 2025 - 1:25:01 PM",
-        "updated": "Thursday, January 29, 2026 - 7:30:14 AM"
+        "updated": "Tuesday, March 17, 2026 - 7:12:21 PM"
       }
     },
     "vars": {
